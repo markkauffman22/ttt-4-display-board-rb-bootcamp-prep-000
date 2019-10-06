@@ -20,7 +20,15 @@ rows[2] = " #{board[3]} | #{board[4]} | #{board[5]}"
 rows[3] = "-----------"
 rows[4] = " #{board[6]} | #{board[7]} | #{board[8]}"
 
-
+def display_board(board) 
+  puts "  "
+  puts rows[0]
+  puts rows[1]
+  puts rows[2]
+  puts rows[3]
+  puts rows[4]
+  puts "  "
+end
 
 display_board(board)
       board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
