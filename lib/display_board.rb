@@ -28,7 +28,7 @@ rows[3] = "-----------"
 rows[4] = " #{board[6]} | #{board[7]} | #{board[8]}"
 
 
-      board = [" "," "," "," "," "," "," "," "," "]
+
 display_board(board)
       board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
