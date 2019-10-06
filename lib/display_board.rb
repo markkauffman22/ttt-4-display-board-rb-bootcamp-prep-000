@@ -11,7 +11,7 @@ end
 
 
 def display_board(board) 
-  rows = []
+  #rows = []
   #rows[0] = " #{board[0]} | #{board[1]} | #{board[2]}"
   #rows[1] = "-----------"
   #rows[2] = " #{board[3]} | #{board[4]} | #{board[5]}"
