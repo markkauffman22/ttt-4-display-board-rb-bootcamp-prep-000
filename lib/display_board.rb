@@ -21,7 +21,7 @@ end
 
       # Failure/Error: expect(rows[0]).to eq(" O |   |   ")
 
-      #  expected: " O |   |   "
+      #  expected: b
       #  got: "  "
 rows = [" "," "," "," "," "," "," "," "," "]
 
