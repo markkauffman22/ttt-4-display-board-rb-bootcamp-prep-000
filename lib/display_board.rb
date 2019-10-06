@@ -10,7 +10,7 @@ def display_board_example()
 end
 
 def display_board(board) 
-  puts "   |   |   "
+  puts "   |   | board[2]   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
