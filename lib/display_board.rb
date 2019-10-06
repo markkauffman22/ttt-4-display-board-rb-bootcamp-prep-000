@@ -23,7 +23,9 @@ end
 
       #  expected: b
       #  got: "  "
-rows = [" "," "," "," "," "," "," "," "," "]
+rows = []
+rows[0] =
+rows[1] =
 
 
 
