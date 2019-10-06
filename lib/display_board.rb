@@ -9,6 +9,14 @@ def display_board_example(board)
   puts "   |   |   "
 end
 
+def display_board(board) 
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
+
 board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 display_board(board)
 # Make sure to be interpolating data from the board array within your display_board method. 
