@@ -19,7 +19,10 @@ def display_board(board)
   puts "  "
 end
 
+      # Failure/Error: expect(rows[0]).to eq(" O |   |   ")
 
+      #  expected: " O |   |   "
+      #  got: "  "
 
 
 
