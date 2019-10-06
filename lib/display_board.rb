@@ -24,7 +24,6 @@ def display_board(board)
           "-----------",
           " #{board[6]} | #{board[7]} | #{board[8]}"]
   
-  
   puts "  "
   puts rows[0]
   puts rows[1]
