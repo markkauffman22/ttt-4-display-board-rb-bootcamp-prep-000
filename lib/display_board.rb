@@ -24,7 +24,7 @@ end
       #  expected: b
       #  got: "  "
 rows = []
-rows[0] =
+rows[0] = 
 rows[1] =
 
 
