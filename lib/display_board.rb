@@ -16,5 +16,9 @@ display_board(board)
 # board as you did before to an actual board that contains live player movement throughout 
 # the game.
 
-
+#An empty cell is "   " and a filled cell is " X "
+#Three cells per a row.
+#The middle cell in a row is bordered by 2 | (pipes): O | X |
+#Three rows on the board.
+#Rows are separated by: -----------
 
