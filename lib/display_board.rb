@@ -10,11 +10,6 @@ def display_blank_board()
 end
 
 
-
-board = [" "," "," "," "," "," "," "," "," "]
-
-
-
 def display_board(board) 
   rows = []
   rows[0] = " #{board[0]} | #{board[1]} | #{board[2]}"
