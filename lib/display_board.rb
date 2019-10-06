@@ -23,7 +23,7 @@ end
 
       #  expected: " O |   |   "
       #  got: "  "
-
+rows = 
 
 
 
