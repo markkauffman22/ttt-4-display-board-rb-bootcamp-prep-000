@@ -20,7 +20,7 @@ end
       board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 display_board(board)
       board = [" "," "," "," "," "," "," "," "," "]
-
+display_board(board)
       board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
       board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
