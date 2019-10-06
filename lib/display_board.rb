@@ -15,3 +15,6 @@ display_board(board)
 # This is essential to solving this lab, to evolve from a permanently empty skeleton 
 # board as you did before to an actual board that contains live player movement throughout 
 # the game.
+
+
+
